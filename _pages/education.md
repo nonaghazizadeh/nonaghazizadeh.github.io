@@ -12,7 +12,7 @@ B.Sc., **Computer Engineering**
 
 - Total GPA: 3.88/4 (18.80/20)
   
-- Last two years GPA: 4/4 (19.05/20)
+- Last two years GPA: 4/4 (19.53/20)
   
 - Highlighted Courses:
   
