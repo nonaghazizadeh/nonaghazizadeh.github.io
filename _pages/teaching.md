@@ -2,7 +2,7 @@
 
 layout: archive
 title: ""
-permalink: /teaching-assitant/
+permalink: /teaching-assistant/
 author_profile: true
 
 ---
