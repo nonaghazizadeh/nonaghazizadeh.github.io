@@ -25,7 +25,7 @@ B.Sc., **Computer Engineering**
 ---
 
 
-## Mehraein High School, Tehran, Iran
+## [**Mehraein High School**](https://portal.mehraein.sch.ir/en/home-page/), Tehran, Iran
 
 High School Diploma, **Mathematics and Physics**.
 
