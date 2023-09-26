@@ -8,7 +8,7 @@ author_profile: true
 ## Honors
 <ul>
 <li>Ranked in the top 0.6% among 165,000 participants in the <a href="https://en.wikipedia.org/wiki/Iranian_University_Entrance_Exam">Iranian University Entrance Exam.</a> (Summer 2019)</li>
-<li>Ranked 2 in the spaghetti tower competition held in <a href="https://en.sbu.ac.ir/">Shahid Beheshti University.</a> (March 2016)</li>
+<li>Ranked 2 in the spaghetti tower competition (SBUSS) held in <a href="https://en.sbu.ac.ir/">Shahid Beheshti University.</a> (March 2016)</li>
 <li>Ranked 3 in the spaghetti tower competition (ModCup) held in <a href="http://www.iust.ac.ir/en">Iran University of Science and Technology.</a> (March 2017)</li>
 
 </ul>
