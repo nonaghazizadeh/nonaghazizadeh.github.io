@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /honors/
+permalink: /honors-activities/
 author_profile: true
 ---
 
