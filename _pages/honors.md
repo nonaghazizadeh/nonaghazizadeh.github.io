@@ -14,7 +14,7 @@ author_profile: true
 </ul>
 
 ## Working Experience
-### Yektanet
+### Yektanet 
 
 _Front-end developer_
 
@@ -26,12 +26,24 @@ _Front-end developer_
 
 ## Volunteer Work
 
-### Taghva Elementary School
+### Contributed to the Creation and Development of Persian Wikipedia Pages for Key Machine Learning Concepts
 
-_A Charitable Initiative (Hand Craft)_
+Enhanced the understanding of machine learning in the Persian language by establishing a Wikipedia page dedicated to the T-SNE Dimensionality Reduction Algorithm and improving an existing page on Anomaly Detection. These pages are beneficial for Persian-speaking individuals who are curious about these subjects. The pages can be visited via the links provided.
+
+[T-SNE Dimensionality Reduction Algorithm](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%DA%A9%D8%A7%D9%87%D8%B4_%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF_t-sne) and [Anomaly Detection](https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B4_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D9%86%D8%A7%D9%87%D9%86%D8%AC%D8%A7%D8%B1%DB%8C).
+
+*Fall 2022*
+
+### Teaching Discrete Math in Mehraein High School
+
+Guided 12th-grade students through complex concepts, making them engaging and comprehensible. Actively solved mathematical problems in class and assisted students in debugging their own solutions, fostering a collaborative and interactive learning environment. 
+
+*Fall 2019*
+
+### A Charitable Initiative (Hand Craft)
 
 - Designed and handcrafted unique bracelets for sale.
 - Marketed and sold the bracelets, managing all aspects of customer interaction.
 - Raised funds through the sale of these bracelets, with all proceeds going towards the chosen cause.
 
-*Jan. 2016 - Feb. 2016*
+*Spring 2016*
