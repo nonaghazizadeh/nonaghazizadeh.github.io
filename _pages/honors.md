@@ -26,6 +26,15 @@ _Front-end developer_
 
 ## Volunteer Work
 
+###  Recurrent Neural Networks and Contextual Embedding Lecture Note
+
+Developed a comprehensive lecture note for a course in Natural Language Processing. This note encompasses advanced topics such as Recursive Neural Networks, which are a type of deep learning model designed to recognize patterns in sequential data and hierarchically structured data. Additionally, the note delves into the realm of Contextual Embedding, featuring models like TagLM, ELMo, and ULMFit. These models represent a significant leap in the field as they consider the context of words in a sentence, leading to a more nuanced understanding of language.
+
+[Lecture Note](https://github.com/nonaghazizadeh/NLP_lecture_note)
+
+
+*Spring 2023*
+
 ### Contributed to the Creation and Development of Persian Wikipedia Pages for Key Machine Learning Concepts
 
 Enhanced the understanding of machine learning in the Persian language by establishing a Wikipedia page dedicated to the T-SNE Dimensionality Reduction Algorithm and improving an existing page on Anomaly Detection. These pages are beneficial for Persian-speaking individuals who are curious about these subjects. The pages can be visited via the links provided.
@@ -50,6 +59,6 @@ Guided 12th-grade students through complex concepts, making them engaging and co
 
 ### A Charitable Initiative (Hand Craft)
 
-I designed and handcrafted unique bracelets, which I then marketed and sold, managing all aspects of customer interaction. The funds raised from the sale of these bracelets were donated to a chosen cause.
+Designed and handcrafted unique bracelets, which I then marketed and sold, managing all aspects of customer interaction. The funds raised from the sale of these bracelets were donated to a chosen cause.
 
 *Spring 2016*
