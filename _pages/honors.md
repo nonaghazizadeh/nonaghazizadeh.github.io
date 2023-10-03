@@ -30,9 +30,17 @@ _Front-end developer_
 
 Enhanced the understanding of machine learning in the Persian language by establishing a Wikipedia page dedicated to the T-SNE Dimensionality Reduction Algorithm and improving an existing page on Anomaly Detection. These pages are beneficial for Persian-speaking individuals who are curious about these subjects. The pages can be visited via the links provided.
 
-[T-SNE Dimensionality Reduction Algorithm](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%DA%A9%D8%A7%D9%87%D8%B4_%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF_t-sne) and [Anomaly Detection](https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B4_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D9%86%D8%A7%D9%87%D9%86%D8%AC%D8%A7%D8%B1%DB%8C).
+[T-SNE Dimensionality Reduction Algorithm](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%DA%A9%D8%A7%D9%87%D8%B4_%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF_t-sne) and [Anomaly Detection](https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B4_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D9%86%D8%A7%D9%87%D9%86%D8%AC%D8%A7%D8%B1%DB%8C)
 
 *Fall 2022*
+
+### Design Patterns Workshop Contributor and Content Creator
+
+Contribute to a workshop focused on design patterns. This involved the creation of comprehensive PDF materials in Persian, illustrating various design patterns across three categories: Behavioral, Creational, and Structural. These materials served as a valuable resource for workshop participants, enhancing their understanding of these complex concepts. The PDFs can be visited via the link provided.
+
+[Design Patterns](https://github.com/ShayanEmzed/web_workshop/tree/master/DesignPatterns)
+
+*Fall 2021*
 
 ### Teaching Discrete Math in Mehraein High School
 
