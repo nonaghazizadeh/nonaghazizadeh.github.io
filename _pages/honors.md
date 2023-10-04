@@ -59,6 +59,6 @@ Guided 12th-grade students through complex concepts, making them engaging and co
 
 ### A Charitable Initiative (Hand Craft)
 
-Designed and handcrafted unique bracelets, which I then marketed and sold, managing all aspects of customer interaction. The funds raised from the sale of these bracelets were donated to a chosen cause.
+Designed and handcrafted unique bracelets, which I then marketed and sold, managing all aspects of customer interaction. The funds raised from the sale of these bracelets were donated to a charity organization.
 
 *Spring 2016*
