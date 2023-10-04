@@ -57,7 +57,7 @@ Guided 12th-grade students through complex concepts, making them engaging and co
 
 *Fall 2019*
 
-### A Charitable Initiative (Hand Craft)
+### Crafting Bracelets for Charity with Hands-on Marketing and Customer Engagement
 
 Designed and handcrafted unique bracelets, which I then marketed and sold, managing all aspects of customer interaction. The funds raised from the sale of these bracelets were donated to a charity organization.
 
