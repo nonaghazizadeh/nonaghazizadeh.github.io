@@ -75,7 +75,7 @@ author_profile: true
         <td>
             <img src="/images/ml.png" alt="" width="350">
             <a href="https://github.com/nonaghazizadeh/web_channel"><strong>Web Channel</strong></a>
-            <br> I developed a social networking platform based on Object-Oriented Design and design patterns, where authors and content creators can generate income. This platform allows them to create, share, and monetize their content, fostering a community that rewards creativity.
+            <br> Developed a social networking platform based on Object-Oriented Design and design patterns, where authors and content creators can generate income. This platform allows them to create, share, and monetize their content, fostering a community that rewards creativity.
         </td>
     </tr>
     
