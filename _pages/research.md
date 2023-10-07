@@ -63,11 +63,12 @@ _Under the Supervision of  [Abbas Heydarnoori](https://scholar.google.com/citati
 
 
 ### Developing Automated Medical Report Generation for Fundus Fluorescein Angiography Images (A Novel Approach in Ophthalmology Research)
-It introduces a model that utilizes FFA-IR datasets, which comprise Fundus Fluorescein Angiography Images and their corresponding reports. The model generates a report for each case based on patient's images by following the steps below:
+It introduces a model that uses Fundus Fluorescein Angiography Images and their corresponding reports, collectively known as FFA-IR datasets. The aim is to enhance the model’s reliance on medical information rather than solely on language metrics when generating reports. Some modifications have also been made to the Reinforcement Learning (RL) algorithm to improve its performance. The model follows these steps to generate a report for each case based on the patient’s images:
 
-- A Convolutional Neural Network (CNN) serves as the encoder, extracting features from the medical images.
-- Cross-modal mapping aligns the visual and textual features of a medical image and its report. Shared memory records the mappings between visual and textual information.
-- A reinforcement learning (RL) strategy over a cross-modal memory (CMM) is proposed to enhance the alignment of visual and textual features. The reinforcement algorithm learns the signal from the reports to guide the cross-modal alignment.
+- A Convolutional Neural Network (CNN), acting as the Visual Extractor, extracts visual features from the medical images. The goal is to improve its understanding of medical features from images, rather than just using a standard CNN.
+- Cross-modal Memory aligns the visual and textual features of a medical image and its report. Shared memory records the mappings between visual and textual information.
+- The encoder-decoder in this model is built upon a standard Transformer with additional medical components to enhance its ability to generate medical reports. The decoder in such architectures typically takes the encoded representations of the input data and transforms them into the desired output format.
+- A slightly modified version of the proposed reinforcement learning (RL) algorithm is applied. It leverages signals from natural language generation (NLG) metrics, such as BLEU, to guide the cross-modal mappings. This helps to better match features from images and texts, and provides a direct target of learning outcome for report generation. (This section is still under development)
 
 _Under the Supervision of  [Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en) and [Usman Naseem](https://scholar.google.com/citations?user=61Ou1P8AAAAJ&hl=en)_
 
