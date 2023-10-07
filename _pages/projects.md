@@ -52,7 +52,7 @@ author_profile: true
         </td>
         <td>
             <img src="/images/img-caption.png" alt="" width="350">
-            <a href="https://github.com/nonaghazizadeh/image-captioning"><strong>image-captioning</strong></a>
+            <a href="https://github.com/nonaghazizadeh/image-captioning"><strong>Image Captioning</strong></a>
             <br>An RNN-based system that generates relevant captions for images. It utilizes pre-trained ResNet50 for image feature extraction and LSTM networks for text generation.
         </td>
         <td>
