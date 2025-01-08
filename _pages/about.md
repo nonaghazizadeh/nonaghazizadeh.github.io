@@ -16,12 +16,6 @@ ul.twocol { width: 110%; }
 </style>
 
 <p style="text-align: justify;">
-My name is Nona Ghazizadeh. I am a first year Brain and Cognitive Science Ph.D. Student at University of Southern California. I got my bachelor's degree in Computer Engineering at Sharif University of Technology.
-My fields of interest are: 
+My name is Nona Ghazizadeh. I am a first year Ph.D. Student in the Brain and Cognitive Science at the University of Southern California. I got my bachelor's degree in Computer Engineering at Sharif University of Technology. My fields of interest are Natural Language Processing (NLP) and Brain & Computational Cognitive Science. I am especially interested in investigating the neural correlates of moral language in prosocial behavior using NLP.
 </p>
-
-<ul style="margin-top: -1%;" markdown='1'>
-<li> Natural Language Processing (NLP)</li>
-<li> Brain & Computational Cognitive Science </li>
-</ul>
 
