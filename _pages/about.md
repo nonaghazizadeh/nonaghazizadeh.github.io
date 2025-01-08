@@ -16,15 +16,12 @@ ul.twocol { width: 110%; }
 </style>
 
 <p style="text-align: justify;">
-My name is Nona Ghazizadeh. I am an undergraduate student of Computer Engineering at Sharif University of Technology, and I will graduate with a bachelor’s degree in January 2024. I am working on News QA based on LLMs in ACL 2024 as my B.Sc. project.
+My name is Nona Ghazizadeh. I am a first year Brain and Cognitive Science Ph.D. Student at University of Southern California. I got my bachelor's degree in Computer Engineering at Sharif University of Technology.
 My fields of interest are: 
 </p>
 
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Natural Language Processing (NLP)</li>
-<li> Information Retrieval </li>
-<li> Software Engineering for AI‐Based Systems</li>
-<li> Machine Learning</li>
-<li> Artificial Intelligence</li>
+<li> Brain & Computational Cognitive Science </li>
 </ul>
 
