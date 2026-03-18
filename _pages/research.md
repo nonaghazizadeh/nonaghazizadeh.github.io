@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## Research Assistant at [Sharif University of Technology](https://aut.ac.ir/)
+## Research Assistant at [Sharif University of Technology](https://en.sharif.edu/)
 
 ### Utilizing Large Language Models for Medical Question Answering in Persian and English
 It introduces a model that utilizes PubMed QA and PubMed summarization datasets for answering questions and novel dataset including persian-english sentences with translated disease names. This model is equipped to respond to medical questions in both Persian and English by following these steps:
