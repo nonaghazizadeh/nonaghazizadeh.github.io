@@ -4,11 +4,21 @@ title: ""
 permalink: /education/
 author_profile: true
 ---
+## [**University of Southern California**](https://www.usc.edu/), Los Angeles, CA, USA
+
+Ph.D., **Brain and Cognitive Science**
+
+Supervisor: [**Professor Morteza Dehghani**](https://www.mola-lab.org/people)
+
+*Sep. 2024 – current*
+
+- Total GPA: 4/4 
+
 ## [**Sharif University of Technology**](https://en.sharif.edu/), Tehran, Iran
 
 B.Sc., **Computer Engineering**
 
-*Sep. 2019 – Jun. 2024 (Expected)*
+*Sep. 2019 – Jun. 2024*
 
 - Total GPA: 3.88/4 (18.80/20)
   

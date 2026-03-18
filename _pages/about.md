@@ -16,15 +16,8 @@ ul.twocol { width: 110%; }
 </style>
 
 <p style="text-align: justify;">
-My name is Nona Ghazizadeh. I am an undergraduate student of Computer Engineering at Sharif University of Technology, and I will graduate with a bachelor’s degree in January 2024. I am working on News QA based on LLMs in ACL 2024 as my B.Sc. project.
-My fields of interest are: 
+My name is Nona Ghazizadeh. I am a second year Ph.D. Student in the Brain and Cognitive Science at the University of Southern California under supervision of <a href="https://www.mola-lab.org/people">Dr. Morteza Dehghani</a>. I got my bachelor's degree in Computer Engineering at Sharif University of Technology.
+<br>
+My fields of interest are Natural Language Processing (NLP) and Brain & Computational Cognitive Science.
 </p>
-
-<ul style="margin-top: -1%;" markdown='1'>
-<li> Natural Language Processing (NLP)</li>
-<li> Information Retrieval </li>
-<li> Software Engineering for AI‐Based Systems</li>
-<li> Machine Learning</li>
-<li> Artificial Intelligence</li>
-</ul>
 
