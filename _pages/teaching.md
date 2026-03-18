@@ -6,13 +6,16 @@ permalink: /teaching-assistant/
 author_profile: true
 
 ---
+## Teaching Assistant at University of Southern California
+- Statistics, Fall 2024 and Spring 2025, Hold lab classes, Designing assignments, Correcting assignments, Designing lab handouts, Correcting midterm & final exams
 
-## Teaching Assistant
 
-- Modern Information Retrieval, by [Mahdieh Soleymani Baghshah](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en), Spring 2023 / by [Hamid Beigy](https://scholar.google.com/citations?user=0NiKG0EAAAAJ&hl=en), Fall 2022
-- Machine Learning, by [Ali Sharifi-Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en), Fall 2023
-- Linear Algebra, by [Hamid R. Rabiee](https://scholar.google.com/citations?user=rKDtrNgAAAAJ&hl=en) & [Maryam Ramezani](https://scholar.google.com/citations?user=cBR8x-4AAAAJ&hl=en), Spring 2022
-- Engineering Probability and Statistics, by [Ali Sharifi-Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en), Spring 2023
-- Compiler Design, by [Gholamreza Ghassem-Sani](https://scholar.google.com/citations?user=1mw-zmsAAAAJ&hl=en), Fall 2022 & Spring 2023 & Fall 2023
-- Electrical and Electronic Circuits, by [Somayyeh Koohi](https://scholar.google.com/citations?user=64uL9QoAAAAJ&hl=en), Fall 2021 / by [Ali Mohammad Afshin Hemmatyar](https://scholar.google.com/citations?user=wob0AskAAAAJ&hl=en), Fall 2021
-- Advanced Programming, by [Vahid Salmani](https://scholar.google.com/citations?user=GfUeb2wAAAAJ&hl=en), Fall 2020
+## Teaching Assistant at Sharif University of Technology
+
+- Modern Information Retrieval, Spring 2023 and Fall 2022, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
+- Machine Learning, Fall 2023, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
+- Linear Algebra, Spring 2022, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
+- Engineering Probability and Statistics, Spring 2023, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
+- Compiler Design, Fall 2022 & Spring 2023 & Fall 2023, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
+- Electrical and Electronic Circuits, Fall 2021, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
+- Advanced Programming, Fall 2020, Hold problem-solving classes, Designing assignments & projects & quizzes, Correcting assignments & projects & quizzes, Correcting midterm & final exams
