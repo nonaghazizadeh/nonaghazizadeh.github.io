@@ -10,7 +10,7 @@ Ph.D., **Brain and Cognitive Science**
 
 Supervisor: [**Professor Morteza Dehghani**](https://www.mola-lab.org/people)
 
-*Sep. 2024 – Aug. 2029 (expected)*
+*Sep. 2024 – current*
 
 - Total GPA: 4/4 
 
@@ -18,7 +18,7 @@ Supervisor: [**Professor Morteza Dehghani**](https://www.mola-lab.org/people)
 
 B.Sc., **Computer Engineering**
 
-*Sep. 2019 – Jun. 2024 (Expected)*
+*Sep. 2019 – Jun. 2024*
 
 - Total GPA: 3.88/4 (18.80/20)
   
