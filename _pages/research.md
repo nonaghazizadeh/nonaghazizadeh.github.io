@@ -6,6 +6,20 @@ author_profile: true
 redirect_from:
   - /publications/
 ---
+
+## Publications
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+## Research Experience
+
 ## Research Assistant at [University of Southern California](https://www.usc.edu/)
 
 ### Modeling Cognitive Biases and Fast/Slow Thinking in LLMs
@@ -61,17 +75,6 @@ Developed an automated medical report generation system for Fundus Fluorescein A
 _Under the Supervision of [Dr. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en)_
 
 *June 2023 – September 2023*
-
-
-## Publications
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
 
