@@ -7,22 +7,22 @@ author_profile: true
 ## [**University of Southern California**](https://www.usc.edu/), Los Angeles, CA, USA
 
 Ph.D., **Brain and Cognitive Science**
+- Advisor: [**Professor Morteza Dehghani**](https://www.mola-lab.org/people)
+- GPA: 4.0/4.0
+- *Aug. 2024 – Present*
 
-Supervisor: [**Professor Morteza Dehghani**](https://www.mola-lab.org/people)
+M.Sc., **Brain and Cognitive Science**
+- **Thesis Title:** *Learning Under Constraint: How KL Regularization Connects Machines, Minds, and Control*
+- GPA: 4.0/4.0
+- *Aug. 2024 – May 2026 (expected)*
 
-*Sep. 2024 – current*
-
-- Total GPA: 4/4 
 
 ## [**Sharif University of Technology**](https://en.sharif.edu/), Tehran, Iran
 
 B.Sc., **Computer Engineering**
-
-*Sep. 2019 – Jun. 2024*
-
-- Total GPA: 3.88/4 (18.80/20)
-  
-- Last two years GPA: 4/4 (19.53/20)
+- Overall GPA: 3.85/4.0 (18.70/20)
+- Major GPA: 3.90/4.0 (19.00/20)
+- *Sep. 2019 – July 2024*
   
 - Highlighted Courses:
   

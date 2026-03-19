@@ -11,7 +11,7 @@ redirect_from:
 
 E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Abstraction as a Memory-Efficient Inductive Bias for Continual Learning](#). ARR March 2026 Submission, 2026. (*Under review*)
 
-A. S. Ziabari*, **Nona Ghazizadeh***, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](#). COLM 2026 Submission, 2025. (*Under review*)
+A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](#). COLM 2026 Submission, 2025. (*Under review*)
 
 P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](#). ACL ARR January 2026 Submission, 2026. (*Under review*)
 
