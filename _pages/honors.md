@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 ## Honors
+
 <ul>
-<li>Received graduate student research fellowship University of Southern California (2025-2026)</li>
-<li>Ranked in the top 0.6% among 165,000 participants in the <a href="https://en.wikipedia.org/wiki/Iranian_University_Entrance_Exam">Iranian University Entrance Exam.</a> (Summer 2019)</li>
+<li>Received seed funding award from Center for Computational Language Sciences at University of Southern California (2026)</li>
+<li>Received doctoral research grant award from Psychology Department at University of Southern California (2026)</li>
+<li>Received graduate student research fellowship from University of Southern California (2025)</li>
+<li>Ranked in the top 25% among 190 students of Computer Engineering students based on GPA at Sharif University of Technology (2024)</li>
+<li>Ranked in the top 0.5% among nearly 165,000 participants in the Nation-Wide University Entrance Exam (Konkour) in Mathematics Branch for fully funded BSc period in Iran (2019)</li>
 <li>Ranked 2 in the spaghetti tower competition (SBUSS) held in <a href="https://en.sbu.ac.ir/">Shahid Beheshti University.</a> (March 2016)</li>
 <li>Ranked 3 in the spaghetti tower competition (ModCup) held in <a href="http://www.iust.ac.ir/en">Iran University of Science and Technology.</a> (March 2017)</li>
-
 </ul>
 
 ## Working Experience

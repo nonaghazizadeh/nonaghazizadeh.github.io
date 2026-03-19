@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research & Publications"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
