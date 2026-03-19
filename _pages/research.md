@@ -9,17 +9,17 @@ redirect_from:
 
 ## Publications
 
-E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Abstraction as a Memory-Efficient Inductive Bias for Continual Learning](#). ARR March 2026 Submission, 2026. (*Under review*)
+E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Abstraction as a Memory-Efficient Inductive Bias for Continual Learning](https://arxiv.org/abs/2603.17198). ARR March 2026 Submission, 2026. (*Under review*)
 
-A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](#). COLM 2026 Submission, 2025. (*Under review*)
+A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](https://arxiv.org/abs/2502.12470). COLM 2026 Submission, 2025. (*Under review*)
 
-P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](#). ACL ARR January 2026 Submission, 2026. (*Under review*)
+P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](https://arxiv.org/abs/2602.10339). ACL ARR January 2026 Submission, 2026. (*Under review*)
 
 M. M. Abootorabi, **Nona Ghazizadeh**, A. Dalili, A. Ghahramani, M. Dehghani, and E. Asgari. [AIMA at SemEval-2024 Task 10: History-Based Emotion Recognition in Hindi-English Code-Mixed Conversations](https://aclanthology.org/2024.semeval-1.226/). In *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)*, Mexico City, Mexico, June 2024. Association for Computational Linguistics.   [Paper](https://aclanthology.org/2024.semeval-1.226/)
 
 A. Ghahramani Kure, M. Dehghani, M. M. Abootorabi, **Nona Ghazizadeh**, S. A. Dalili, and E. Asgari. [AIMA at SemEval-2024 Task 3: Simple Yet Powerful Emotion Cause Pair Analysis](https://aclanthology.org/2024.semeval-1.243/). In *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)*, Mexico City, Mexico, June 2024. Association for Computational Linguistics.   [Paper](https://aclanthology.org/2024.semeval-1.243/)
 
-M. Akhi and **Nona Ghazizadeh**. [HDNA: A graph-based change detection in HTML pages (Deface Attack Detection)](https://arxiv.org/abs/2310.03891), 2023.   [Preprint](https://arxiv.org/abs/2310.03891)
+M. Akhi and **Nona Ghazizadeh**. [HDNA: A graph-based change detection in HTML pages (Deface Attack Detection)](https://arxiv.org/abs/2310.03891), 2023.
 
 
 ## Research Experience
@@ -66,7 +66,7 @@ Ranked GitHub project issues using software engineering methods, creating call g
 ### Node Identification and weighted tree structures for HTML pages (HDNA)
 Developed a novel approach for node identification and weighted tree structures for HTML pages to capture changes in dynamically generated DOM trees (HTML DNA).
 
-_Under the Supervision of [Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en) and [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?user=s5vgK3kAAAAJ&hl=en) at Computer Engineering Department._
+_Under the Supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en) and [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?user=s5vgK3kAAAAJ&hl=en) at Computer Engineering Department._
 
 *August 2022 – July 2024*
 
