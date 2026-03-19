@@ -9,13 +9,17 @@ redirect_from:
 
 ## Publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Abstraction as a Memory-Efficient Inductive Bias for Continual Learning](#). ARR March 2026 Submission, 2026. (*Under review*)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+A. S. Ziabari*, **Nona Ghazizadeh***, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](#). COLM 2026 Submission, 2025. (*Under review*)
+
+P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](#). ACL ARR January 2026 Submission, 2026. (*Under review*)
+
+M. M. Abootorabi, **Nona Ghazizadeh**, A. Dalili, A. Ghahramani, M. Dehghani, and E. Asgari. [AIMA at SemEval-2024 Task 10: History-Based Emotion Recognition in Hindi-English Code-Mixed Conversations](https://aclanthology.org/2024.semeval-1.226/). In *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)*, Mexico City, Mexico, June 2024. Association for Computational Linguistics.   [Paper](https://aclanthology.org/2024.semeval-1.226/)
+
+A. Ghahramani Kure, M. Dehghani, M. M. Abootorabi, **Nona Ghazizadeh**, S. A. Dalili, and E. Asgari. [AIMA at SemEval-2024 Task 3: Simple Yet Powerful Emotion Cause Pair Analysis](https://aclanthology.org/2024.semeval-1.243/). In *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)*, Mexico City, Mexico, June 2024. Association for Computational Linguistics.   [Paper](https://aclanthology.org/2024.semeval-1.243/)
+
+M. Akhi and **Nona Ghazizadeh**. [HDNA: A graph-based change detection in HTML pages (Deface Attack Detection)](https://arxiv.org/abs/2310.03891), 2023.   [Preprint](https://arxiv.org/abs/2310.03891)
 
 
 ## Research Experience

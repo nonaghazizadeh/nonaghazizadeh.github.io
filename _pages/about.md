@@ -16,9 +16,9 @@ ul.twocol { width: 110%; }
 </style>
 
 <p style="text-align: justify;">
-My name is Nona Ghazizadeh. I am a second year Ph.D. Student in the Brain and Cognitive Science at the University of Southern California under supervision of <a href="https://www.mola-lab.org/people">Dr. Morteza Dehghani</a>. I got my bachelor's degree in Computer Engineering at Sharif University of Technology.
+My name is Nona Ghazizadeh. I am a second year Ph.D. Student in the Brain and Cognitive Science at the University of Southern California under supervision of <a href="https://www.mola-lab.org/people">Morteza Dehghani</a>. I got my bachelor's degree in Computer Engineering at Sharif University of Technology.
 <br>
 <br>
-My fields of interest are Natural Language Processing (NLP) and Brain & Computational Cognitive Science.
+My fields of interest are Large Languge Model Reasoning ,Natural Language Processing, and Computational Cognitive Science.
 </p>
 
