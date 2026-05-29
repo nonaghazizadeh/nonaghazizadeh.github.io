@@ -8,7 +8,7 @@ author_profile: true
 
 Ph.D., **Brain and Cognitive Science**
 - Advisor: [**Professor Morteza Dehghani**](https://www.mola-lab.org/people)
-- GPA: 4.0/4.0
+- Current GPA: 4.0/4.0
 - *Aug. 2024 – Present*
 
 M.Sc., **Brain and Cognitive Science**
