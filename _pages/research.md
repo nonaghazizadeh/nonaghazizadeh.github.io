@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications
 
-, **Nona Ghazizadeh**, E. Rahmati, M. Dehghani, and P. Piray. [Alignment Needs `Cognitive Control': On The Role of Regularization in LLM Alignment](https://drive.google.com/file/d/1Lk26QX3XxQiBSATEHzOjhgMovHSd-DFp/view?usp=sharing). NeurIPS 2026 Position Paper Track Submission, 2026. (*Under review*)
+**Nona Ghazizadeh**, E. Rahmati, M. Dehghani, and P. Piray. [Alignment Needs `Cognitive Control': On The Role of Regularization in LLM Alignment](https://drive.google.com/file/d/1Lk26QX3XxQiBSATEHzOjhgMovHSd-DFp/view?usp=sharing). NeurIPS 2026 Position Paper Track Submission, 2026. (*Under review*)
 
 E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Abstraction as a Memory-Efficient Inductive Bias for Continual Learning](https://arxiv.org/abs/2603.17198). NeurIPS 2026 Submission, 2026. (*Under review*)
 
