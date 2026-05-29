@@ -12,9 +12,9 @@ Ph.D., **Brain and Cognitive Science**
 - *Aug. 2024 – Present*
 
 M.Sc., **Brain and Cognitive Science**
-- **Thesis Title:** *Learning Under Constraint: How KL Regularization Connects Machines, Minds, and Control*
+- **Thesis Title:** *Alignment Needs `Cognitive Control': On The Role of Regularization in LLM Alignment*
 - GPA: 4.0/4.0
-- *Aug. 2024 – May 2026 (expected)*
+- *Aug. 2024 – May 2026*
 
 
 ## [**Sharif University of Technology**](https://en.sharif.edu/), Tehran, Iran
