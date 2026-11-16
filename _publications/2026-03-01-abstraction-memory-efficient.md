@@ -1,13 +1,13 @@
 ---
-title: "Abstraction as a Memory-Efficient Inductive Bias for Continual Learning"
+title: "Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training"
 collection: publications
 permalink: /publication/2026-03-01-abstraction-memory-efficient
 date: 2026-03-01
-venue: 'ARR March 2026 Submission'
-paperurl: ''
-citation: 'E. Rahmati, <b>Nona Ghazizadeh</b>, Z. Sourati, N. Rouhani, and M. Dehghani. (2026). &quot;Abstraction as a Memory-Efficient Inductive Bias for Continual Learning.&quot; <i>ARR March 2026 Submission</i>. (*Under review*)'
+venue: 'Under review at ICLR 2027'
+paperurl: 'https://arxiv.org/abs/2603.17198'
+citation: 'E. Rahmati, <b>Nona Ghazizadeh</b>, Z. Sourati, N. Rouhani, and M. Dehghani. (2026). &quot;Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training.&quot; <i>Under review at ICLR 2027</i>.'
 ---
 
-Abstraction as a Memory-Efficient Inductive Bias for Continual Learning.
+Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training.
 
-Recommended citation: E. Rahmati, <b>Nona Ghazizadeh</b>, Z. Sourati, N. Rouhani, and M. Dehghani. (2026). "Abstraction as a Memory-Efficient Inductive Bias for Continual Learning." <i>ARR March 2026 Submission</i>. (*Under review*)
+Recommended citation: E. Rahmati, <b>Nona Ghazizadeh</b>, Z. Sourati, N. Rouhani, and M. Dehghani. (2026). "Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training." <i>Under review at ICLR 2027</i>.

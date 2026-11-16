@@ -9,13 +9,17 @@ redirect_from:
 
 ## Publications
 
-**Nona Ghazizadeh**, E. Rahmati, M. Dehghani, and P. Piray. [Alignment Needs `Cognitive Control': On The Role of Regularization in LLM Alignment](https://drive.google.com/file/d/1Lk26QX3XxQiBSATEHzOjhgMovHSd-DFp/view?usp=sharing). NeurIPS 2026 Position Paper Track Submission, 2026. (*Under review*)
+**Nona Ghazizadeh**, E. Rahmati, M. Dehghani, and P. Piray. [Beyond a Penalty: Regularization as Cognitive Control in Alignment](https://drive.google.com/file/d/1aGfTU0NJlsm4KNs4psw0jA4aEhM7SPIS/view?usp=drivesdk). NeurIPS 2026 Position Paper Track, 2026. (**Accepted**)
 
-E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Abstraction as a Memory-Efficient Inductive Bias for Continual Learning](https://arxiv.org/abs/2603.17198). NeurIPS 2026 Submission, 2026. (*Under review*)
+**Nona Ghazizadeh**\*, E. Rahmati\*, A. S. Ziabari, K. Ahrabian, P. Piray, and M. Dehghani. [DIALECT: Continuous-Space Communication Within and Across Language Models](https://drive.google.com/file/d/1PcPDGVfyW1b36-vTIgW9mG5ksU7yWC6l/view?usp=drivesdk). Under review at ICLR 2027, 2026.
 
-A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](https://arxiv.org/abs/2502.12470). COLM 2026 Submission, 2025. (*Under review*)
+Z. Sourati\*, M. H. Wu\*, **Nona Ghazizadeh**, J. Kaplan, M. Dehghani, and S. A. Nastase. [Cognitive Expert Language Models Better Align with the Corresponding Brain Systems](https://arxiv.org/pdf/2609.36239). *arXiv preprint*, 2026.
 
-P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](https://arxiv.org/abs/2602.10339). ACL ARR January 2026 Submission, 2026.
+E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training](https://arxiv.org/abs/2603.17198). Under review at ICLR 2027, 2026.
+
+A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](https://arxiv.org/abs/2502.12470). COLM 2026.
+
+P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](https://aclanthology.org/2026.acl-long.1564/). In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*, 2026.
 
 M. M. Abootorabi, **Nona Ghazizadeh**, A. Dalili, A. Ghahramani, M. Dehghani, and E. Asgari. [AIMA at SemEval-2024 Task 10: History-Based Emotion Recognition in Hindi-English Code-Mixed Conversations](https://aclanthology.org/2024.semeval-1.226/). In *Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)*, Mexico City, Mexico, June 2024. Association for Computational Linguistics.
 
@@ -24,21 +28,29 @@ A. Ghahramani Kure, M. Dehghani, M. M. Abootorabi, **Nona Ghazizadeh**, S. A. Da
 M. Akhi and **Nona Ghazizadeh**. [HDNA: A graph-based change detection in HTML pages (Deface Attack Detection)](https://arxiv.org/abs/2310.03891), 2023.
 
 
+\* Equal contribution.
+
 ## Research Experience
 
 ## Research Assistant at [University of Southern California](https://www.usc.edu/)
 
 ### Modeling Cognitive Biases and Fast/Slow Thinking in LLMs
-Modeling human fast thinking (System 1) and slow thinking (System 2) to understand cognitive biases in large language models, with the goal of manipulating human behavior based on their thinking type.
+Investigated and aligned LLM reasoning along a spectrum of fast, intuitive (System 1) and slow, deliberative (System 2) thinking, evaluating reasoning behavior across benchmarks. This work appeared at COLM 2026.
+
+### DIALECT: Continuous-Space Communication Between Language Models
+Developed continuous-space communication for agents using the same or different language models. DIALECT transfers stochastic mixtures of token embeddings directly between same-model agents or through a learned bridge between different models, keeping both LLMs frozen. Evaluated the framework across 13 benchmarks in mathematical reasoning, knowledge question answering, and code generation.
+
+### Cognitive Expert Language Models and Brain Alignment
+Contributed to research on cognitive expert language models and their alignment with corresponding brain systems, connecting specialized language-model behavior with cognitive neuroscience.
 
 ### Mechanistic Representations of Structure-Mapping Theory
 Investigated mechanistic representations of Gentner’s Structure-Mapping Theory in LLMs by constructing a multi-domain analogical reasoning dataset and extracting structural mapping vectors through contrastive activation analysis.
 
-### Interdisciplinary Review on Regularized Reinforcement Learning
-Conducting an interdisciplinary review on regularized reinforcement learning with an emphasis on unified computational frameworks in cognitive neuroscience, robotics, control theory, and NLP alignment.
+### Cognitive Control and LLM Alignment
+Connected reference-based regularization in LLM alignment with computational accounts of cognitive control, arguing that alignment research should examine what regularization preserves and how its structure should vary across contexts. This position paper was accepted to the NeurIPS 2026 Position Paper Track.
 
 ### Cognitive-Inspired Self-Evaluation Reasoning Framework
-Developing a cognitive-inspired self-evaluation reasoning framework using reflection token tagging and eye-tracking data analysis to identify decision-making points of cognitive reflection.
+Research on a cognitive-inspired self-evaluation reasoning framework using reflection token tagging and eye-tracking data analysis to identify decision-making points of cognitive reflection.
 
 ### Abstraction-Augmented Training (AAT) for Continual Learning
 Designed Abstraction-Augmented Training (AAT), a replay-free online continual learning method that improves stability and generalization via abstraction-aware loss optimization.
