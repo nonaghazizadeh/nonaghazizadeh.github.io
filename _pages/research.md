@@ -32,29 +32,29 @@ M. Akhi and **Nona Ghazizadeh**. [HDNA: A graph-based change detection in HTML p
 
 ## Research Assistant at [University of Southern California](https://www.usc.edu/)
 
-### Modeling Cognitive Biases and Fast/Slow Thinking in LLMs
-Investigated and aligned LLM reasoning along a spectrum of fast, intuitive (System 1) and slow, deliberative (System 2) thinking, evaluating reasoning behavior across benchmarks. This work appeared at COLM 2026.
+### Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking
+This project examines LLM reasoning along a spectrum of fast, intuitive (System 1) and slow, deliberative (System 2) thinking, and evaluates how alignment affects reasoning behavior across benchmarks.
 
-### DIALECT: Continuous-Space Communication Between Language Models
-Developed continuous-space communication for agents using the same or different language models. DIALECT transfers stochastic mixtures of token embeddings directly between same-model agents or through a learned bridge between different models, keeping both LLMs frozen. Evaluated the framework across 13 benchmarks in mathematical reasoning, knowledge question answering, and code generation.
+### DIALECT: Continuous-Space Communication Within and Across Language Models
+DIALECT explores communication through continuous representations between agents using the same or different language models. It transfers stochastic mixtures of token embeddings directly between same-model agents or through a learned bridge between different models, keeping both LLMs frozen. Evaluation spans 13 benchmarks in mathematical reasoning, knowledge question answering, and code generation.
 
-### Cognitive Expert Language Models and Brain Alignment
-Contributed to research on cognitive expert language models and their alignment with corresponding brain systems, connecting specialized language-model behavior with cognitive neuroscience.
+### Cognitive Expert Language Models Better Align with the Corresponding Brain Systems
+This project investigates how language models specialized in cognitive domains align with corresponding brain systems, connecting language-model representations with cognitive neuroscience.
 
 ### Mechanistic Representations of Structure-Mapping Theory
-Investigated mechanistic representations of Gentner’s Structure-Mapping Theory in LLMs by constructing a multi-domain analogical reasoning dataset and extracting structural mapping vectors through contrastive activation analysis.
+This project examines how LLMs represent the relationships described by Gentner’s Structure-Mapping Theory. It uses a multi-domain analogical reasoning dataset and contrastive activation analysis to study structural mapping representations.
 
-### Cognitive Control and LLM Alignment
-Connected reference-based regularization in LLM alignment with computational accounts of cognitive control, arguing that alignment research should examine what regularization preserves and how its structure should vary across contexts. This position paper was accepted to the NeurIPS 2026 Position Paper Track.
+### Beyond a Penalty: Regularization as Cognitive Control in Alignment
+This position paper connects reference-based regularization in LLM alignment with computational accounts of cognitive control. It argues for examining what regularization preserves and how its structure should vary across contexts.
 
 ### Cognitive-Inspired Self-Evaluation Reasoning Framework
-Research on a cognitive-inspired self-evaluation reasoning framework using reflection token tagging and eye-tracking data analysis to identify decision-making points of cognitive reflection.
+This project explores reflection token tagging and eye-tracking data as ways to identify points of cognitive reflection and inform self-evaluation in language-model reasoning.
 
-### Abstraction-Augmented Training (AAT) for Continual Learning
-Designed Abstraction-Augmented Training (AAT), a replay-free online continual learning method that improves stability and generalization via abstraction-aware loss optimization.
+### Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training
+This project studies structural abstraction as an inductive bias for language models learning from changing data. Abstraction-Augmented Training (AAT) is a replay-free online continual learning approach that uses abstraction-aware loss optimization to support stability and generalization.
 
-### Perspective-Aware Modeling of LAPD Body-Worn Camera Footage
-Developed a perspective-aware modeling framework and a multi-perspective dataset of LAPD body-worn camera footage to analyze subjective interpretations of respect using procedural justice-grounded rubrics.
+### The Subjectivity of Respect in Police Traffic Stops
+This project examines how community perspectives shape interpretations of respect in LAPD body-worn camera footage. It combines a multi-perspective dataset with procedural justice-grounded rubrics to study perspective-aware modeling of respect.
 
 _Under the Supervision of [Prof. Morteza Dehghani](https://www.mola-lab.org/people) at Brain and Cognitive Science Department._
 
@@ -63,20 +63,20 @@ _Under the Supervision of [Prof. Morteza Dehghani](https://www.mola-lab.org/peop
 
 ## Research Assistant at [Sharif University of Technology](https://en.sharif.edu/)
 
-### Classified emotions in code-mixed conversations
-Classified emotions in code-mixed conversations using pre-trained large models and GRU networks to integrate prior/future context and sequential flow.
+### Emotion Recognition in Code-Mixed Conversations
+This project studies emotion recognition in code-mixed conversations using pretrained language models and GRU networks to incorporate prior and future context alongside conversational sequence information.
 
-### Extracted emotion-cause pairs in multi-modal contexts
-Extracted emotion-cause pairs in multi-modal conversational contexts by constructing a causality matrix using transformer-based encoders and prompt engineering.
+### Emotion-Cause Pair Extraction in Multimodal Conversations
+This project examines emotion-cause relationships in multimodal conversations using causality matrices, transformer-based encoders, and prompt engineering.
 
 ### Multilingual Medical and News Question Answering (RAG)
-Implemented Retrieval-Augmented Generation (RAG) models for multilingual medical, drug, and news question-answering systems. It introduces a model that utilizes PubMed QA, PubMed summarization, and news datasets for answering questions.
+This project explores retrieval-augmented generation for multilingual medical, drug, and news question answering, using PubMed QA, PubMed summarization, and news datasets.
 
-### Bug Issues Ranker Based on Traceability and call graphs
-Ranked GitHub project issues using software engineering methods, creating call graphs with traceability and applying NLP techniques for embedding similarity.
+### Bug Issue Ranking with Traceability and Call Graphs
+This project investigates GitHub issue ranking through software traceability, call graphs, and similarity between NLP embeddings.
 
-### Node Identification and weighted tree structures for HTML pages (HDNA)
-Developed a novel approach for node identification and weighted tree structures for HTML pages to capture changes in dynamically generated DOM trees (HTML DNA).
+### HDNA: Graph-Based Change Detection in HTML Pages
+HDNA studies change detection in HTML pages through node identification and weighted tree representations of the DOM, including dynamically generated content.
 
 _Under the Supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en) and [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?user=s5vgK3kAAAAJ&hl=en) at Computer Engineering Department._
 
@@ -86,7 +86,7 @@ _Under the Supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/cit
 ## Research Assistant at [University of New South Wales Sydney](https://www.unsw.edu.au/)
 
 ### Automated Medical Report Generation for FFA Images
-Developed an automated medical report generation system for Fundus Fluorescein Angiography (FFA) images using visual feature extractors, cross-modal memory, and reinforcement learning.
+This project explores automated report generation from Fundus Fluorescein Angiography (FFA) images using visual feature extraction, cross-modal memory, and reinforcement learning.
 
 _Under the Supervision of [Dr. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en)_
 
