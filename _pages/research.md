@@ -11,7 +11,7 @@ redirect_from:
 
 **Nona Ghazizadeh**, E. Rahmati, M. Dehghani, and P. Piray. [Beyond a Penalty: Regularization as Cognitive Control in Alignment](https://drive.google.com/file/d/1aGfTU0NJlsm4KNs4psw0jA4aEhM7SPIS/view?usp=drivesdk). NeurIPS 2026 Position Paper Track, 2026. (**Accepted**)
 
-**Nona Ghazizadeh**\*, E. Rahmati\*, A. S. Ziabari, K. Ahrabian, P. Piray, and M. Dehghani. [DIALECT: Continuous-Space Communication Within and Across Language Models](https://drive.google.com/file/d/1PcPDGVfyW1b36-vTIgW9mG5ksU7yWC6l/view?usp=drivesdk). Under review at ICLR 2027, 2026.
+**Nona Ghazizadeh**, E. Rahmati, A. S. Ziabari, K. Ahrabian, P. Piray, and M. Dehghani. [DIALECT: Continuous-Space Communication Within and Across Language Models](https://drive.google.com/file/d/1PcPDGVfyW1b36-vTIgW9mG5ksU7yWC6l/view?usp=drivesdk). Under review at ICLR 2027, 2026.
 
 Z. Sourati\*, M. H. Wu\*, **Nona Ghazizadeh**, J. Kaplan, M. Dehghani, and S. A. Nastase. [Cognitive Expert Language Models Better Align with the Corresponding Brain Systems](https://arxiv.org/pdf/2609.36239). *arXiv preprint*, 2026.
 
