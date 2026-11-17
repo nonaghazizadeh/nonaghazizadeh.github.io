@@ -13,7 +13,7 @@ redirect_from:
 
 **Nona Ghazizadeh**, E. Rahmati, A. S. Ziabari, K. Ahrabian, P. Piray, and M. Dehghani. [DIALECT: Continuous-Space Communication Within and Across Language Models](https://drive.google.com/file/d/1PcPDGVfyW1b36-vTIgW9mG5ksU7yWC6l/view?usp=drivesdk). Under review at ICLR 2027, 2026.
 
-Z. Sourati\*, M. H. Wu\*, **Nona Ghazizadeh**, J. Kaplan, M. Dehghani, and S. A. Nastase. [Cognitive Expert Language Models Better Align with the Corresponding Brain Systems](https://arxiv.org/pdf/2609.36239). *arXiv preprint*, 2026.
+Z. Sourati\*, M. H. Wu\*, **Nona Ghazizadeh**, J. Kaplan, M. Dehghani, and S. A. Nastase. [Cognitive Expert Language Models Better Align with the Corresponding Brain Systems](https://arxiv.org/pdf/2609.36239). Under review at ICLR 2027, 2026.
 
 E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training](https://arxiv.org/abs/2603.17198). Under review at ICLR 2027, 2026.
 
