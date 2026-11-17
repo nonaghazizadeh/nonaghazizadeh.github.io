@@ -13,11 +13,11 @@ redirect_from:
 
 **Nona Ghazizadeh**, E. Rahmati, A. S. Ziabari, K. Ahrabian, P. Piray, and M. Dehghani. [DIALECT: Continuous-Space Communication Within and Across Language Models](https://drive.google.com/file/d/1PcPDGVfyW1b36-vTIgW9mG5ksU7yWC6l/view?usp=drivesdk). Under review at ICLR 2027, 2026.
 
+A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](https://arxiv.org/abs/2502.12470). COLM 2026.
+
 Z. Sourati\*, M. H. Wu\*, **Nona Ghazizadeh**, J. Kaplan, M. Dehghani, and S. A. Nastase. [Cognitive Expert Language Models Better Align with the Corresponding Brain Systems](https://arxiv.org/pdf/2609.36239). Under review at ICLR 2027, 2026.
 
 E. Rahmati, **Nona Ghazizadeh**, Z. Sourati, N. Rouhani, and M. Dehghani. [Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training](https://arxiv.org/abs/2603.17198). Under review at ICLR 2027, 2026.
-
-A. S. Ziabari\*, **Nona Ghazizadeh**\*, Z. Sourati, F. Karimi-Malekabadi, P. Piray, and M. Dehghani. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](https://arxiv.org/abs/2502.12470). COLM 2026.
 
 P. Golazizian, E. Rahmati, J. Trager, Z. Sourati, **Nona Ghazizadeh**, G. Chochlakis, J. J. Alcocer, K. Bennett, A. V. Devnani, P. Hejabi, H. G. Muttram, A. K. Padte, M. Saadatinia, C. Wu, A. S. Ziabari, M. Sierra-Arevalo, N. Weller, S. Narayanan, B. A. T. Graham, and M. Dehghani. [The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage](https://aclanthology.org/2026.acl-long.1564/). In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*, 2026.
 
