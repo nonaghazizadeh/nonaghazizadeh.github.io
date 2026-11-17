@@ -28,8 +28,6 @@ A. Ghahramani Kure, M. Dehghani, M. M. Abootorabi, **Nona Ghazizadeh**, S. A. Da
 M. Akhi and **Nona Ghazizadeh**. [HDNA: A graph-based change detection in HTML pages (Deface Attack Detection)](https://arxiv.org/abs/2310.03891), 2023.
 
 
-\* Equal contribution.
-
 ## Research Experience
 
 ## Research Assistant at [University of Southern California](https://www.usc.edu/)
