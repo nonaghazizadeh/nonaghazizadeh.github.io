@@ -56,7 +56,7 @@ This project studies structural abstraction as an inductive bias for language mo
 ### The Subjectivity of Respect in Police Traffic Stops
 This project examines how community perspectives shape interpretations of respect in LAPD body-worn camera footage. It combines a multi-perspective dataset with procedural justice-grounded rubrics to study perspective-aware modeling of respect.
 
-_Under the Supervision of [Prof. Morteza Dehghani](https://www.mola-lab.org/people) at Brain and Cognitive Science Department._
+_Under the Supervision of [Prof. Morteza Dehghani](https://www.mola-lab.org/people)._
 
 *August 2024 – Present*
 
@@ -78,7 +78,7 @@ This project investigates GitHub issue ranking through software traceability, ca
 ### HDNA: Graph-Based Change Detection in HTML Pages
 HDNA studies change detection in HTML pages through node identification and weighted tree representations of the DOM, including dynamically generated content.
 
-_Under the Supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en) and [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?user=s5vgK3kAAAAJ&hl=en) at Computer Engineering Department._
+_Under the Supervision of [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en) and [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?user=s5vgK3kAAAAJ&hl=en)._
 
 *August 2022 – July 2024*
 
